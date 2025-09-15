@@ -1260,40 +1260,6 @@
   ],
   "spikes": [
     {
-      "id": "spike-2-copy-1-copy-2",
-      "coords": {
-        "x": 1140,
-        "y": 550,
-        "z": 0
-      },
-      "size": {
-        "width": 40,
-        "height": 30
-      },
-      "backgroundColor": "#1f59bd",
-      "strokeWidth": 2,
-      "strokeColor": "#ffffff",
-      "isActive": true,
-      "isReversed": false
-    },
-    {
-      "id": "spike-2-copy-1-copy-1",
-      "coords": {
-        "x": 930,
-        "y": 550,
-        "z": 0
-      },
-      "size": {
-        "width": 40,
-        "height": 30
-      },
-      "backgroundColor": "#1f59bd",
-      "strokeWidth": 2,
-      "strokeColor": "#ffffff",
-      "isActive": true,
-      "isReversed": false
-    },
-    {
       "id": "spike-2",
       "coords": {
         "x": 180,
@@ -1566,6 +1532,23 @@
       "isReversed": false
     },
     {
+      "id": "spike-2-copy-1-copy-1",
+      "coords": {
+        "x": 930,
+        "y": 550,
+        "z": 0
+      },
+      "size": {
+        "width": 40,
+        "height": 30
+      },
+      "backgroundColor": "#1f59bd",
+      "strokeWidth": 2,
+      "strokeColor": "#ffffff",
+      "isActive": true,
+      "isReversed": false
+    },
+    {
       "id": "spike-2-copy-46-copy-48-copy-1-copy-3-copy-5",
       "coords": {
         "x": 930,
@@ -1717,6 +1700,23 @@
       "strokeColor": "#2D3748",
       "isActive": true,
       "isReversed": true
+    },
+    {
+      "id": "spike-2-copy-1-copy-2",
+      "coords": {
+        "x": 1140,
+        "y": 550,
+        "z": 0
+      },
+      "size": {
+        "width": 40,
+        "height": 30
+      },
+      "backgroundColor": "#1f59bd",
+      "strokeWidth": 2,
+      "strokeColor": "#ffffff",
+      "isActive": true,
+      "isReversed": false
     },
     {
       "id": "spike-2-copy-1-copy-9",
@@ -1989,6 +1989,40 @@
       "strokeColor": "#2D3748",
       "isActive": true,
       "isReversed": true
+    },
+    {
+      "id": "spike-2-copy-45-copy-47-copy-49-copy-2-copy-4-copy-6-copy-8-copy-5-copy-5-copy-1-copy-2",
+      "coords": {
+        "x": 2161.3720930232557,
+        "y": 560,
+        "z": 0
+      },
+      "size": {
+        "width": 50,
+        "height": 50
+      },
+      "backgroundColor": "#4A5568",
+      "strokeWidth": 2,
+      "strokeColor": "#2D3748",
+      "isActive": true,
+      "isReversed": false
+    },
+    {
+      "id": "spike-2-copy-45-copy-47-copy-49-copy-2-copy-4-copy-6-copy-8-copy-5-copy-5-copy-1",
+      "coords": {
+        "x": 2161.3720930232557,
+        "y": 610,
+        "z": 0
+      },
+      "size": {
+        "width": 50,
+        "height": 50
+      },
+      "backgroundColor": "#4A5568",
+      "strokeWidth": 2,
+      "strokeColor": "#2D3748",
+      "isActive": true,
+      "isReversed": false
     },
     {
       "id": "spike-2-copy-45-copy-47-copy-49-copy-2-copy-4-copy-6-copy-8-copy-5-copy-7-copy-9-copy-11-copy-13",
